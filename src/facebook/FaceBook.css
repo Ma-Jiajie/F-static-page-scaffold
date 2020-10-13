@@ -1,0 +1,94 @@
+body {
+  font-family: "Fix for Mac Chrome 80", system-ui, -apple-system,
+    BlinkMacSystemFont, ".SFNSText-Regular", sans-serif;
+  background-color: #e9ebee;
+}
+
+.header {
+  background-color: #3b5998;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.logo {
+  font-size: 45px;
+  padding-right: 10px;
+}
+
+.nav {
+  display: flex;
+}
+
+.register-button {
+  font-size: 10px;
+  background-color: #42b72a;
+  text-align: center;
+  padding: 5px;
+  margin-top: 20px;
+  margin-bottom: 18px;
+}
+
+.join-facebook {
+  padding: 5px;
+  margin-top: 20px;
+  margin-bottom: 18px;
+  font-size: 10px;
+}
+
+.icon-select {
+  display: inline-flex;
+  vertical-align: middle;
+  width: 0;
+  height: 0;
+  border: 5px solid transparent;
+  border-top-color: white;
+}
+
+.content {
+  width: 981px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.create-home {
+  font-size: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.introduce {
+  margin-bottom: 100px;
+}
+
+.items {
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+}
+
+.item {
+  background-color: white;
+  padding-top: 50px;
+  width: 450px;
+  margin-bottom: 100px;
+}
+
+.item-name {
+  padding-top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.item-introduce {
+  padding: 20px 20px 150px 20px;
+  color: #9b9fa8;
+}
+
+.start-button {
+  margin-bottom: 20px;
+  border: #e0e3e7;
+  padding: 5px;
+}
