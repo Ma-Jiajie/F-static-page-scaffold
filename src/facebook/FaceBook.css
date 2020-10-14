@@ -47,6 +47,15 @@ body {
   border-top-color: white;
 }
 
+.join-facebook:after {
+  content: "";
+  margin-left: 5px;
+  border-width: 4px;
+  display: inline-flex;
+  border-style: solid;
+  border-color: #fff transparent transparent transparent;
+}
+
 .content {
   width: 981px;
   padding-left: 200px;
